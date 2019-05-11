@@ -7,6 +7,7 @@ namespace almostWorking
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("here is an update!");
         }
     }
 }
